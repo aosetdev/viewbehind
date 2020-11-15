@@ -1,4 +1,4 @@
-# zeus4
+# latest-nuxt
 
 ## Build Setup
 
