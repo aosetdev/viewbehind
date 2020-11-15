@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "latest-nuxt",
+=======
+  "name": "Viewbehind",
+>>>>>>> 4deced4b03874a6c30330bac6f8bb8d654ae2872
   "version": "1.0.0",
   "private": true,
   "scripts": {

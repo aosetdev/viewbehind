@@ -1,4 +1,5 @@
 <template>
+<<<<<<< HEAD
   <v-row justify="center" align="center">
     <v-col cols="12" sm="8" md="6">
       <v-card>
@@ -24,3 +25,23 @@
 <script>
 export default {}
 </script>
+=======
+			  <v-row justify="center" align="center">
+			    <v-col cols="12" sm="8" md="6">
+			      <div class="text-center">
+			        <logo />
+			      </div>
+			      
+			    </v-col>
+			  </v-row>
+			</template>
+			
+			<script>
+			import Logo from '~/components/Logo.vue'
+			export default {
+			  components: {
+			    Logo
+			  },
+			}
+			</script>
+>>>>>>> 4deced4b03874a6c30330bac6f8bb8d654ae2872

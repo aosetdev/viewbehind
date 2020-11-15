@@ -6,7 +6,11 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
+<<<<<<< HEAD
     titleTemplate: '%s - Culture & Society',
+=======
+    titleTemplate: '%s - Society & Culture',
+>>>>>>> 4deced4b03874a6c30330bac6f8bb8d654ae2872
     title: 'Viewbehind',
     meta: [
       { charset: 'utf-8' },
