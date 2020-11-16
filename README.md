@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# latest-nuxt
-=======
 # Viewbehind
->>>>>>> 4deced4b03874a6c30330bac6f8bb8d654ae2872
 
 ## Build Setup
 
